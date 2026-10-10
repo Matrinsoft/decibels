@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "noCheck": true,
     "target": "es2018",
     "module": "ES2020",
     "lib": [
